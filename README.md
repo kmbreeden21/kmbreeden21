@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Kira Breeden and I recently graduated with my Masters in Data Science from Northwestern University. 
+- 👋 Hi, I’m Kira Breeden and I am currently pursuing my PhD in Psychology at the University of Wisconsin - Madison 
 - 👀 I’m interested in data science and anything AI and ML! 
-- 🌱 I’m currently learning all I can about natural language processing and the details of deep learning! 
-- 📫 How to reach me: email me at kmbreeden21@gmail.com 
+- 🌱 I’m currently conducting research investigating individual differences that explain variations in how language augments cognition. 
 
 <!---
 kmbreeden21/kmbreeden21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
